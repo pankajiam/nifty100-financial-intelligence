@@ -21,7 +21,7 @@ def normalize_year(year: str) -> str:
     if re.fullmatch(r"FY\d{2}", value, re.IGNORECASE):
         return f"20{value[-2:]}-03"
 
-    match = re.fullmatch(r"([A-Za-z]+)[ -](\d{2,4})", value)
+    match = re.fullmatch(r"([A-Za-z]+)[ -]?(\d{2,4})", value)
 
     if match:
         month = match.group(1)
@@ -63,3 +63,4 @@ def normalize_dataframe(df: pd.DataFrame) -> pd.DataFrame:
         df["year"] = df["year"].map(normalize_year)
 
     return df
+

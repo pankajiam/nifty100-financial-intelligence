@@ -127,3 +127,5 @@ def test_normalize_year_empty_string():
 def test_normalize_ticker_already_clean():
     assert normalize_ticker("RELIANCE") == "RELIANCE"
 
+def test_normalize_year_no_space_month_year():
+    assert normalize_year("Mar2021") == "2021-03"

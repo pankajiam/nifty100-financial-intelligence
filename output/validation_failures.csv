@@ -1,0 +1,1191 @@
+rule_id,severity,table,company_id,year,message
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,TTM,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,profitandloss,ADANIPORTS,TTM,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Sep 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,ASIANPAINT,Sep 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Sep 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,POWERGRID,Sep 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Sep 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,balancesheet,TECHM,Sep 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,ABB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,cashflow,BAJAJ-AUTO,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ABB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ADANIPORTS,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,ASIANPAINT,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,BAJAJ-AUTO,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,PNB,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,POWERGRID,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2013,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2014,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2015,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2016,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2017,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2018,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2019,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2020,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2021,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2022,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2023,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-02,CRITICAL,financial_ratios,TECHM,Mar 2024,"Duplicate (company_id, year) combination"
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,profitandloss,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,balancesheet,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,AGTL,,company_id 'AGTL' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,cashflow,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,cashflow,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,analysis,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,analysis,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,analysis,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,analysis,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,UNITDSPR,,company_id 'UNITDSPR' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VBL,,company_id 'VBL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,VEDL,,company_id 'VEDL' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZOMATO,,company_id 'ZOMATO' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,documents,ZYDUSLIFE,,company_id 'ZYDUSLIFE' not found in companies table
+DQ-03,CRITICAL,prosandcons,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,prosandcons,WIPRO,,company_id 'WIPRO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,ULTRACEMCO,,company_id 'ULTRACEMCO' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-03,CRITICAL,financial_ratios,UNIONBANK,,company_id 'UNIONBANK' not found in companies table
+DQ-05,WARNING,profitandloss,ADANIENSOL,Mar 2024,Computed OPM (34.39%) vs reported opm_percentage (30.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2013,Computed OPM (30.58%) vs reported opm_percentage (1353.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2014,Computed OPM (31.47%) vs reported opm_percentage (2307.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2015,Computed OPM (31.36%) vs reported opm_percentage (3097.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2016,Computed OPM (32.61%) vs reported opm_percentage (3466.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2017,Computed OPM (53.45%) vs reported opm_percentage (-5715.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2018,Computed OPM (63.12%) vs reported opm_percentage (-10277.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2019,Computed OPM (49.39%) vs reported opm_percentage (-5447.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2020,Computed OPM (55.98%) vs reported opm_percentage (-9859.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2021,Computed OPM (50.12%) vs reported opm_percentage (-2510.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2022,Computed OPM (44.47%) vs reported opm_percentage (3170.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2023,Computed OPM (34.16%) vs reported opm_percentage (13857.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,Mar 2024,Computed OPM (34.69%) vs reported opm_percentage (11952.0%) differ
+DQ-05,WARNING,profitandloss,AXISBANK,TTM,Computed OPM (36.94%) vs reported opm_percentage (9061.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2015,Computed OPM (32.49%) vs reported opm_percentage (1367.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2016,Computed OPM (32.25%) vs reported opm_percentage (1986.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2017,Computed OPM (32.60%) vs reported opm_percentage (2867.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2018,Computed OPM (32.28%) vs reported opm_percentage (3935.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2019,Computed OPM (29.50%) vs reported opm_percentage (6310.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2020,Computed OPM (34.73%) vs reported opm_percentage (7608.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2021,Computed OPM (40.64%) vs reported opm_percentage (6314.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2022,Computed OPM (37.55%) vs reported opm_percentage (9906.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2023,Computed OPM (30.65%) vs reported opm_percentage (16018.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,Mar 2024,Computed OPM (29.29%) vs reported opm_percentage (19987.0%) differ
+DQ-05,WARNING,profitandloss,BAJFINANCE,TTM,Computed OPM (30.42%) vs reported opm_percentage (21417.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2013,Computed OPM (30.05%) vs reported opm_percentage (1006.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2014,Computed OPM (29.78%) vs reported opm_percentage (809.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2015,Computed OPM (29.98%) vs reported opm_percentage (902.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2016,Computed OPM (55.44%) vs reported opm_percentage (-11700.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2017,Computed OPM (43.28%) vs reported opm_percentage (-4372.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2018,Computed OPM (56.65%) vs reported opm_percentage (-9197.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2019,Computed OPM (48.79%) vs reported opm_percentage (-5414.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2020,Computed OPM (51.44%) vs reported opm_percentage (-11728.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2021,Computed OPM (51.23%) vs reported opm_percentage (-6957.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2022,Computed OPM (51.12%) vs reported opm_percentage (-2948.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2023,Computed OPM (40.45%) vs reported opm_percentage (6329.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,Mar 2024,Computed OPM (37.49%) vs reported opm_percentage (4102.0%) differ
+DQ-05,WARNING,profitandloss,BANKBARODA,TTM,Computed OPM (37.42%) vs reported opm_percentage (3526.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2013,Computed OPM (21.18%) vs reported opm_percentage (655.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2014,Computed OPM (24.35%) vs reported opm_percentage (-672.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2015,Computed OPM (23.51%) vs reported opm_percentage (-621.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2016,Computed OPM (40.38%) vs reported opm_percentage (-8008.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2017,Computed OPM (37.85%) vs reported opm_percentage (-5775.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2018,Computed OPM (61.87%) vs reported opm_percentage (-13350.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2019,Computed OPM (56.73%) vs reported opm_percentage (-11590.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2020,Computed OPM (53.88%) vs reported opm_percentage (-12867.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2021,Computed OPM (61.83%) vs reported opm_percentage (-18367.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2022,Computed OPM (58.39%) vs reported opm_percentage (-13657.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2023,Computed OPM (49.80%) vs reported opm_percentage (-9877.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,Mar 2024,Computed OPM (41.75%) vs reported opm_percentage (-7745.0%) differ
+DQ-05,WARNING,profitandloss,CANBK,TTM,Computed OPM (40.23%) vs reported opm_percentage (-8985.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2013,Computed OPM (26.77%) vs reported opm_percentage (472.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2014,Computed OPM (28.42%) vs reported opm_percentage (578.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2015,Computed OPM (28.56%) vs reported opm_percentage (696.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2016,Computed OPM (30.04%) vs reported opm_percentage (899.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2017,Computed OPM (28.16%) vs reported opm_percentage (1143.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2018,Computed OPM (26.10%) vs reported opm_percentage (1451.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2019,Computed OPM (22.96%) vs reported opm_percentage (1888.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2020,Computed OPM (27.79%) vs reported opm_percentage (1699.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2021,Computed OPM (30.40%) vs reported opm_percentage (2094.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2022,Computed OPM (28.83%) vs reported opm_percentage (2924.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2023,Computed OPM (28.10%) vs reported opm_percentage (3515.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,Mar 2024,Computed OPM (28.10%) vs reported opm_percentage (4548.0%) differ
+DQ-05,WARNING,profitandloss,CHOLAFIN,TTM,Computed OPM (28.67%) vs reported opm_percentage (5175.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2013,Computed OPM (73.26%) vs reported opm_percentage (2214.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2014,Computed OPM (78.90%) vs reported opm_percentage (2147.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2015,Computed OPM (80.94%) vs reported opm_percentage (2163.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2016,Computed OPM (82.02%) vs reported opm_percentage (2480.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2017,Computed OPM (82.66%) vs reported opm_percentage (2496.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2018,Computed OPM (81.35%) vs reported opm_percentage (2826.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2019,Computed OPM (81.07%) vs reported opm_percentage (3097.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2020,Computed OPM (81.29%) vs reported opm_percentage (3206.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2021,Computed OPM (77.80%) vs reported opm_percentage (4252.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2022,Computed OPM (79.08%) vs reported opm_percentage (4553.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2023,Computed OPM (77.91%) vs reported opm_percentage (5027.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,Mar 2024,Computed OPM (75.59%) vs reported opm_percentage (6291.0%) differ
+DQ-05,WARNING,profitandloss,CIPLA,TTM,Computed OPM (74.40%) vs reported opm_percentage (6906.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2013,Computed OPM (73.52%) vs reported opm_percentage (18087.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2014,Computed OPM (74.84%) vs reported opm_percentage (17766.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2015,Computed OPM (76.60%) vs reported opm_percentage (17343.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2016,Computed OPM (75.96%) vs reported opm_percentage (18714.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2017,Computed OPM (84.07%) vs reported opm_percentage (12448.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2018,Computed OPM (89.10%) vs reported opm_percentage (9288.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2019,Computed OPM (74.89%) vs reported opm_percentage (25007.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2020,Computed OPM (77.54%) vs reported opm_percentage (21581.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2021,Computed OPM (79.31%) vs reported opm_percentage (18628.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2022,Computed OPM (77.47%) vs reported opm_percentage (24721.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2023,Computed OPM (68.01%) vs reported opm_percentage (44232.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,Mar 2024,Computed OPM (66.29%) vs reported opm_percentage (47971.0%) differ
+DQ-05,WARNING,profitandloss,COALINDIA,TTM,Computed OPM (66.78%) vs reported opm_percentage (46610.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2013,Computed OPM (35.22%) vs reported opm_percentage (3534.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2014,Computed OPM (31.74%) vs reported opm_percentage (5602.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2015,Computed OPM (31.90%) vs reported opm_percentage (7214.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2016,Computed OPM (31.75%) vs reported opm_percentage (9037.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2017,Computed OPM (32.56%) vs reported opm_percentage (11374.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2018,Computed OPM (34.63%) vs reported opm_percentage (13374.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2019,Computed OPM (33.15%) vs reported opm_percentage (16592.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2020,Computed OPM (37.20%) vs reported opm_percentage (14593.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2021,Computed OPM (40.81%) vs reported opm_percentage (16848.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2022,Computed OPM (41.61%) vs reported opm_percentage (20795.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2023,Computed OPM (36.92%) vs reported opm_percentage (29932.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,Mar 2024,Computed OPM (61.41%) vs reported opm_percentage (-44685.0%) differ
+DQ-05,WARNING,profitandloss,HDFCBANK,TTM,Computed OPM (62.61%) vs reported opm_percentage (-57587.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2013,Computed OPM (96.27%) vs reported opm_percentage (525.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2014,Computed OPM (96.48%) vs reported opm_percentage (605.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2015,Computed OPM (96.79%) vs reported opm_percentage (874.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2016,Computed OPM (94.74%) vs reported opm_percentage (953.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2017,Computed OPM (96.83%) vs reported opm_percentage (972.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2018,Computed OPM (96.67%) vs reported opm_percentage (1074.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2019,Computed OPM (96.87%) vs reported opm_percentage (1215.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2020,Computed OPM (96.12%) vs reported opm_percentage (1141.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2021,Computed OPM (98.27%) vs reported opm_percentage (1235.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2022,Computed OPM (98.84%) vs reported opm_percentage (778.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2023,Computed OPM (99.89%) vs reported opm_percentage (80.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,Mar 2024,Computed OPM (99.48%) vs reported opm_percentage (531.0%) differ
+DQ-05,WARNING,profitandloss,HDFCLIFE,TTM,Computed OPM (99.28%) vs reported opm_percentage (725.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2014,Computed OPM (85.94%) vs reported opm_percentage (3553.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2015,Computed OPM (87.22%) vs reported opm_percentage (3520.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2016,Computed OPM (84.45%) vs reported opm_percentage (4424.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2017,Computed OPM (83.97%) vs reported opm_percentage (4585.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2018,Computed OPM (83.57%) vs reported opm_percentage (5334.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2019,Computed OPM (85.21%) vs reported opm_percentage (5025.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2020,Computed OPM (86.09%) vs reported opm_percentage (4070.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2021,Computed OPM (86.90%) vs reported opm_percentage (4058.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2022,Computed OPM (88.98%) vs reported opm_percentage (3256.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2023,Computed OPM (88.00%) vs reported opm_percentage (4099.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,Mar 2024,Computed OPM (86.15%) vs reported opm_percentage (5235.0%) differ
+DQ-05,WARNING,profitandloss,HEROMOTOCO,TTM,Computed OPM (86.13%) vs reported opm_percentage (5561.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2013,Computed OPM (90.40%) vs reported opm_percentage (7699.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2014,Computed OPM (90.85%) vs reported opm_percentage (8024.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2015,Computed OPM (91.52%) vs reported opm_percentage (8844.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2016,Computed OPM (92.12%) vs reported opm_percentage (7778.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2017,Computed OPM (87.71%) vs reported opm_percentage (12317.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2018,Computed OPM (88.11%) vs reported opm_percentage (13695.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2019,Computed OPM (88.12%) vs reported opm_percentage (15511.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2020,Computed OPM (87.89%) vs reported opm_percentage (14306.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2021,Computed OPM (86.70%) vs reported opm_percentage (17559.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2022,Computed OPM (85.47%) vs reported opm_percentage (28347.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2023,Computed OPM (89.85%) vs reported opm_percentage (22666.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,Mar 2024,Computed OPM (88.95%) vs reported opm_percentage (23872.0%) differ
+DQ-05,WARNING,profitandloss,HINDALCO,TTM,Computed OPM (87.53%) vs reported opm_percentage (27931.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2013,Computed OPM (84.37%) vs reported opm_percentage (4220.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2014,Computed OPM (83.72%) vs reported opm_percentage (4759.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2015,Computed OPM (83.07%) vs reported opm_percentage (5412.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2016,Computed OPM (81.64%) vs reported opm_percentage (5910.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2017,Computed OPM (80.92%) vs reported opm_percentage (6328.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2018,Computed OPM (78.90%) vs reported opm_percentage (7499.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2019,Computed OPM (77.41%) vs reported opm_percentage (8880.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2020,Computed OPM (75.21%) vs reported opm_percentage (9861.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2021,Computed OPM (75.28%) vs reported opm_percentage (11626.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2022,Computed OPM (75.49%) vs reported opm_percentage (12857.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2023,Computed OPM (76.65%) vs reported opm_percentage (14147.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,Mar 2024,Computed OPM (76.32%) vs reported opm_percentage (14659.0%) differ
+DQ-05,WARNING,profitandloss,HINDUNILVR,TTM,Computed OPM (76.45%) vs reported opm_percentage (14759.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2013,Computed OPM (70.59%) vs reported opm_percentage (-15085.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2014,Computed OPM (66.40%) vs reported opm_percentage (-13084.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2015,Computed OPM (70.53%) vs reported opm_percentage (-16120.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2016,Computed OPM (88.12%) vs reported opm_percentage (-26955.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2017,Computed OPM (104.76%) vs reported opm_percentage (-37737.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2018,Computed OPM (117.12%) vs reported opm_percentage (-44906.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2019,Computed OPM (116.38%) vs reported opm_percentage (-50971.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2020,Computed OPM (100.62%) vs reported opm_percentage (-45190.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2021,Computed OPM (102.41%) vs reported opm_percentage (-44805.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2022,Computed OPM (84.69%) vs reported opm_percentage (-26558.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2023,Computed OPM (72.57%) vs reported opm_percentage (-17341.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,Mar 2024,Computed OPM (62.41%) vs reported opm_percentage (-14152.0%) differ
+DQ-05,WARNING,profitandloss,ICICIBANK,TTM,Computed OPM (69.63%) vs reported opm_percentage (-31575.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2013,Computed OPM (104.46%) vs reported opm_percentage (-178.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2014,Computed OPM (105.19%) vs reported opm_percentage (-225.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2015,Computed OPM (105.24%) vs reported opm_percentage (-221.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2016,Computed OPM (87.34%) vs reported opm_percentage (764.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2017,Computed OPM (87.78%) vs reported opm_percentage (919.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2018,Computed OPM (103.79%) vs reported opm_percentage (-262.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2019,Computed OPM (85.05%) vs reported opm_percentage (1669.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2020,Computed OPM (84.61%) vs reported opm_percentage (1772.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2021,Computed OPM (82.97%) vs reported opm_percentage (2072.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2022,Computed OPM (93.66%) vs reported opm_percentage (1016.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2023,Computed OPM (92.93%) vs reported opm_percentage (1264.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,Mar 2024,Computed OPM (87.42%) vs reported opm_percentage (2577.0%) differ
+DQ-05,WARNING,profitandloss,ICICIGI,TTM,Computed OPM (85.57%) vs reported opm_percentage (3363.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2013,Computed OPM (96.28%) vs reported opm_percentage (745.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2014,Computed OPM (93.13%) vs reported opm_percentage (1504.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2015,Computed OPM (95.20%) vs reported opm_percentage (1655.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2016,Computed OPM (91.17%) vs reported opm_percentage (1842.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2017,Computed OPM (95.22%) vs reported opm_percentage (1806.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2018,Computed OPM (95.44%) vs reported opm_percentage (1771.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2019,Computed OPM (98.70%) vs reported opm_percentage (541.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2020,Computed OPM (101.52%) vs reported opm_percentage (-319.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2021,Computed OPM (100.47%) vs reported opm_percentage (-390.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2022,Computed OPM (103.40%) vs reported opm_percentage (-2163.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2023,Computed OPM (103.48%) vs reported opm_percentage (-1757.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,Mar 2024,Computed OPM (102.03%) vs reported opm_percentage (-1829.0%) differ
+DQ-05,WARNING,profitandloss,ICICIPRULI,TTM,Computed OPM (99.59%) vs reported opm_percentage (321.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2013,Computed OPM (27.88%) vs reported opm_percentage (286.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2014,Computed OPM (30.95%) vs reported opm_percentage (335.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2015,Computed OPM (32.33%) vs reported opm_percentage (288.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2016,Computed OPM (35.28%) vs reported opm_percentage (329.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2017,Computed OPM (39.46%) vs reported opm_percentage (379.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2018,Computed OPM (37.93%) vs reported opm_percentage (942.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2019,Computed OPM (41.70%) vs reported opm_percentage (-437.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2020,Computed OPM (43.81%) vs reported opm_percentage (-553.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2021,Computed OPM (55.16%) vs reported opm_percentage (-2469.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2022,Computed OPM (51.39%) vs reported opm_percentage (-839.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2023,Computed OPM (42.69%) vs reported opm_percentage (2067.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,Mar 2024,Computed OPM (38.55%) vs reported opm_percentage (2978.0%) differ
+DQ-05,WARNING,profitandloss,INDUSINDBK,TTM,Computed OPM (41.03%) vs reported opm_percentage (1323.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2013,Computed OPM (60.92%) vs reported opm_percentage (-1789.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2014,Computed OPM (58.84%) vs reported opm_percentage (-1379.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2015,Computed OPM (72.96%) vs reported opm_percentage (-3366.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2016,Computed OPM (56.57%) vs reported opm_percentage (-2263.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2017,Computed OPM (66.44%) vs reported opm_percentage (-3965.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2018,Computed OPM (66.87%) vs reported opm_percentage (-4141.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2019,Computed OPM (66.23%) vs reported opm_percentage (-5114.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2020,Computed OPM (67.45%) vs reported opm_percentage (-5005.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2021,Computed OPM (90.83%) vs reported opm_percentage (-9958.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2022,Computed OPM (90.98%) vs reported opm_percentage (-8512.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2023,Computed OPM (79.44%) vs reported opm_percentage (-5746.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,Mar 2024,Computed OPM (83.67%) vs reported opm_percentage (-13382.0%) differ
+DQ-05,WARNING,profitandloss,KOTAKBANK,TTM,Computed OPM (79.42%) vs reported opm_percentage (-14146.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2013,Computed OPM (90.71%) vs reported opm_percentage (855.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2014,Computed OPM (96.11%) vs reported opm_percentage (433.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2015,Computed OPM (86.33%) vs reported opm_percentage (1904.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2016,Computed OPM (80.40%) vs reported opm_percentage (3164.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2017,Computed OPM (88.06%) vs reported opm_percentage (2219.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2018,Computed OPM (86.84%) vs reported opm_percentage (3030.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2019,Computed OPM (100.53%) vs reported opm_percentage (-151.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2020,Computed OPM (88.62%) vs reported opm_percentage (4069.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2021,Computed OPM (99.98%) vs reported opm_percentage (2.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2022,Computed OPM (97.85%) vs reported opm_percentage (558.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2023,Computed OPM (88.02%) vs reported opm_percentage (6521.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,Mar 2024,Computed OPM (76.30%) vs reported opm_percentage (16331.0%) differ
+DQ-05,WARNING,profitandloss,INDIGO,TTM,Computed OPM (79.20%) vs reported opm_percentage (15908.0%) differ
+DQ-06,WARNING,profitandloss,ADANIENSOL,Mar 2014,Non-positive sales value: 0
+DQ-07,WARNING,cashflow,TVSMOTOR,Mar 2022,Sum of activities (-128.0) does not match net_cash_flow (532.0)
+DQ-08,WARNING,profitandloss,ADANIENT,Mar 2014,tax_percentage out of 0-100 range: -64.0
+DQ-08,WARNING,profitandloss,ADANIGREEN,Mar 2017,tax_percentage out of 0-100 range: -75.0
+DQ-08,WARNING,profitandloss,ADANIGREEN,Mar 2018,tax_percentage out of 0-100 range: -35.0
+DQ-08,WARNING,profitandloss,ADANIGREEN,Mar 2019,tax_percentage out of 0-100 range: -19.0
+DQ-08,WARNING,profitandloss,ADANIPOWER,Mar 2014,tax_percentage out of 0-100 range: -79.0
+DQ-08,WARNING,profitandloss,ADANIPOWER,Mar 2016,tax_percentage out of 0-100 range: -47.0
+DQ-08,WARNING,profitandloss,ADANIPOWER,Mar 2017,tax_percentage out of 0-100 range: -1.0
+DQ-08,WARNING,profitandloss,ADANIPOWER,Mar 2023,tax_percentage out of 0-100 range: -40.0
+DQ-08,WARNING,profitandloss,AMBUJACEM,Dec 2018,tax_percentage out of 0-100 range: -2.0
+DQ-08,WARNING,profitandloss,AXISBANK,Mar 2018,tax_percentage out of 0-100 range: -99.0
+DQ-08,WARNING,profitandloss,BANKBARODA,Mar 2016,tax_percentage out of 0-100 range: -19.0
+DQ-08,WARNING,profitandloss,BANKBARODA,Mar 2018,tax_percentage out of 0-100 range: -9.0
+DQ-08,WARNING,profitandloss,BANKBARODA,Mar 2020,tax_percentage out of 0-100 range: -99.0
+DQ-08,WARNING,profitandloss,BHARTIARTL,Mar 2019,tax_percentage out of 0-100 range: -99.0
+DQ-08,WARNING,profitandloss,BHARTIARTL,Mar 2020,tax_percentage out of 0-100 range: -28.0
+DQ-08,WARNING,profitandloss,BHEL,Mar 2016,tax_percentage out of 0-100 range: -39.0
+DQ-08,WARNING,profitandloss,BHEL,Mar 2021,tax_percentage out of 0-100 range: -25.0
+DQ-08,WARNING,profitandloss,BHEL,Mar 2024,tax_percentage out of 0-100 range: -16.0
+DQ-08,WARNING,profitandloss,CANBK,Mar 2016,tax_percentage out of 0-100 range: -13.0
+DQ-08,WARNING,profitandloss,CANBK,Mar 2018,tax_percentage out of 0-100 range: -36.0
+DQ-08,WARNING,profitandloss,CANBK,Mar 2019,tax_percentage out of 0-100 range: -99.0
+DQ-08,WARNING,profitandloss,DLF,Mar 2014,tax_percentage out of 0-100 range: -16.0
+DQ-08,WARNING,profitandloss,DRREDDY,Mar 2020,tax_percentage out of 0-100 range: -7.0
+DQ-08,WARNING,profitandloss,GODREJCP,Mar 2019,tax_percentage out of 0-100 range: -12.0
+DQ-08,WARNING,profitandloss,GRASIM,Mar 2020,tax_percentage out of 0-100 range: -1.0
+DQ-08,WARNING,profitandloss,HDFCLIFE,Mar 2024,tax_percentage out of 0-100 range: -61.0
+DQ-08,WARNING,profitandloss,IOC,Mar 2020,tax_percentage out of 0-100 range: -74.0
+DQ-08,WARNING,profitandloss,JINDALSTEL,Mar 2015,tax_percentage out of 0-100 range: -6.0
+DQ-08,WARNING,profitandloss,JINDALSTEL,Mar 2016,tax_percentage out of 0-100 range: -22.0
+DQ-08,WARNING,profitandloss,JINDALSTEL,Mar 2017,tax_percentage out of 0-100 range: -17.0
+DQ-08,WARNING,profitandloss,JINDALSTEL,Mar 2018,tax_percentage out of 0-100 range: -13.0
+DQ-08,WARNING,profitandloss,JINDALSTEL,Mar 2019,tax_percentage out of 0-100 range: -14.0
+DQ-08,WARNING,profitandloss,JSWSTEEL,Mar 2016,tax_percentage out of 0-100 range: -80.0
+DQ-08,WARNING,profitandloss,JSWSTEEL,Mar 2020,tax_percentage out of 0-100 range: -30.0
+DQ-08,WARNING,profitandloss,LODHA,Mar 2021,tax_percentage out of 0-100 range: -44.0
+DQ-08,WARNING,profitandloss,LODHA,Mar 2023,tax_percentage out of 0-100 range: -8.0
+DQ-08,WARNING,profitandloss,MOTHERSON,Mar 2020,tax_percentage out of 0-100 range: -5.0
+DQ-08,WARNING,profitandloss,NHPC,Mar 2020,tax_percentage out of 0-100 range: -2.0
+DQ-08,WARNING,profitandloss,NHPC,Mar 2022,tax_percentage out of 0-100 range: -17.0
+DQ-08,WARNING,profitandloss,NTPC,Mar 2016,tax_percentage out of 0-100 range: -2.0
+DQ-08,WARNING,profitandloss,NTPC,Mar 2019,tax_percentage out of 0-100 range: -25.0
+DQ-08,WARNING,profitandloss,PNB,Mar 2016,tax_percentage out of 0-100 range: -31.0
+DQ-08,WARNING,profitandloss,PNB,Mar 2018,tax_percentage out of 0-100 range: -37.0
+DQ-08,WARNING,profitandloss,PNB,Mar 2019,tax_percentage out of 0-100 range: -35.0
+DQ-08,WARNING,profitandloss,POWERGRID,Mar 2019,tax_percentage out of 0-100 range: -10.0
+DQ-08,WARNING,profitandloss,SBIN,Mar 2018,tax_percentage out of 0-100 range: -66.0
+DQ-08,WARNING,profitandloss,SHREECEM,Jun 2015,tax_percentage out of 0-100 range: -6.0
+DQ-08,WARNING,profitandloss,TATAMOTORS,Mar 2019,tax_percentage out of 0-100 range: -8.0
+DQ-08,WARNING,profitandloss,TATAMOTORS,Mar 2024,tax_percentage out of 0-100 range: -14.0
+DQ-08,WARNING,profitandloss,TATASTEEL,Mar 2020,tax_percentage out of 0-100 range: -99.0
+DQ-08,WARNING,profitandloss,TRENT,Mar 2021,tax_percentage out of 0-100 range: -12.0
+DQ-08,WARNING,profitandloss,ULTRACEMCO,Mar 2020,tax_percentage out of 0-100 range: -11.0
+DQ-08,WARNING,profitandloss,UNIONBANK,Mar 2017,tax_percentage out of 0-100 range: -58.0
+DQ-08,WARNING,profitandloss,UNIONBANK,Mar 2018,tax_percentage out of 0-100 range: -21.0
+DQ-08,WARNING,profitandloss,UNIONBANK,Mar 2019,tax_percentage out of 0-100 range: -25.0
+DQ-08,WARNING,profitandloss,UNIONBANK,Mar 2020,tax_percentage out of 0-100 range: -27.0
+DQ-08,WARNING,profitandloss,UNIONBANK,Mar 2021,tax_percentage out of 0-100 range: -22.0
+DQ-08,WARNING,profitandloss,VBL,Dec 2012,tax_percentage out of 0-100 range: -20.0
+DQ-08,WARNING,profitandloss,VBL,Dec 2013,tax_percentage out of 0-100 range: -11.0
+DQ-08,WARNING,profitandloss,VEDL,Mar 2013,tax_percentage out of 0-100 range: -25.0
+DQ-08,WARNING,profitandloss,VEDL,Mar 2014,tax_percentage out of 0-100 range: -9.0
+DQ-08,WARNING,profitandloss,VEDL,Mar 2016,tax_percentage out of 0-100 range: -37.0
+DQ-08,WARNING,profitandloss,VEDL,Mar 2020,tax_percentage out of 0-100 range: -43.0
+DQ-08,WARNING,profitandloss,ZOMATO,Mar 2023,tax_percentage out of 0-100 range: -4.0
+DQ-08,WARNING,profitandloss,ZOMATO,Mar 2024,tax_percentage out of 0-100 range: -21.0
+DQ-08,WARNING,profitandloss,INDIGO,Mar 2019,tax_percentage out of 0-100 range: -99.0
+DQ-08,WARNING,profitandloss,INDIGO,Mar 2020,tax_percentage out of 0-100 range: -10.0
+DQ-08,WARNING,profitandloss,INDIGO,Mar 2024,tax_percentage out of 0-100 range: -2.0
+DQ-09,WARNING,profitandloss,AMBUJACEM,Dec 2020,dividend_payout exceeds 100%: 151.0
+DQ-09,WARNING,profitandloss,BHARTIARTL,Mar 2018,dividend_payout exceeds 100%: 194.0
+DQ-09,WARNING,profitandloss,BHARTIARTL,Mar 2019,dividend_payout exceeds 100%: 244.0
+DQ-09,WARNING,profitandloss,BHEL,Mar 2018,dividend_payout exceeds 100%: 151.0
+DQ-09,WARNING,profitandloss,BPCL,Mar 2020,dividend_payout exceeds 100%: 106.0
+DQ-09,WARNING,profitandloss,BPCL,Mar 2021,dividend_payout exceeds 100%: 102.0
+DQ-09,WARNING,profitandloss,BRITANNIA,Mar 2021,dividend_payout exceeds 100%: 204.0
+DQ-09,WARNING,profitandloss,COALINDIA,Mar 2014,dividend_payout exceeds 100%: 121.0
+DQ-09,WARNING,profitandloss,COALINDIA,Mar 2016,dividend_payout exceeds 100%: 121.0
+DQ-09,WARNING,profitandloss,COALINDIA,Mar 2017,dividend_payout exceeds 100%: 133.0
+DQ-09,WARNING,profitandloss,COALINDIA,Mar 2018,dividend_payout exceeds 100%: 146.0
+DQ-09,WARNING,profitandloss,DLF,Mar 2016,dividend_payout exceeds 100%: 117.0
+DQ-09,WARNING,profitandloss,HINDUNILVR,Mar 2013,dividend_payout exceeds 100%: 104.0
+DQ-09,WARNING,profitandloss,HINDUNILVR,Mar 2021,dividend_payout exceeds 100%: 119.0
+DQ-09,WARNING,profitandloss,ITC,Mar 2021,dividend_payout exceeds 100%: 101.0
+DQ-09,WARNING,profitandloss,M&M,Mar 2020,dividend_payout exceeds 100%: 205.0
+DQ-09,WARNING,profitandloss,NAUKRI,Mar 2015,dividend_payout exceeds 100%: 150.0
+DQ-09,WARNING,profitandloss,NESTLEIND,Dec 2019,dividend_payout exceeds 100%: 168.0
+DQ-09,WARNING,profitandloss,SBIN,Mar 2017,dividend_payout exceeds 100%: 859.0
+DQ-09,WARNING,profitandloss,TATAPOWER,Mar 2015,dividend_payout exceeds 100%: 210.0
+DQ-09,WARNING,profitandloss,TECHM,Mar 2024,dividend_payout exceeds 100%: 150.0
+DQ-09,WARNING,profitandloss,TORNTPHARM,Mar 2022,dividend_payout exceeds 100%: 105.0
+DQ-09,WARNING,profitandloss,VEDL,Mar 2023,dividend_payout exceeds 100%: 357.0
+DQ-09,WARNING,profitandloss,VEDL,Mar 2024,dividend_payout exceeds 100%: 259.0
+DQ-09,WARNING,profitandloss,INDIGO,Mar 2019,dividend_payout exceeds 100%: 123.0
+DQ-11,WARNING,profitandloss,ADANIENSOL,Mar 2015,eps (0.0) and net_profit (-7) have mismatched sign
+DQ-11,WARNING,profitandloss,ADANIGREEN,Mar 2017,eps (0.0) and net_profit (-47) have mismatched sign
+DQ-11,WARNING,profitandloss,ADANIGREEN,Mar 2020,eps (0.0) and net_profit (-68) have mismatched sign
+DQ-11,WARNING,profitandloss,M&M,Mar 2020,eps (1.0) and net_profit (-321) have mismatched sign
+DQ-11,WARNING,profitandloss,NAUKRI,Mar 2015,eps (2.0) and net_profit (-14) have mismatched sign
+DQ-11,WARNING,profitandloss,SBIN,Mar 2017,eps (0.0) and net_profit (-97) have mismatched sign
+DQ-11,WARNING,profitandloss,TATACONSUM,Mar 2016,eps (0.0) and net_profit (-37) have mismatched sign
+DQ-11,WARNING,profitandloss,TATAPOWER,Mar 2014,eps (-1.0) and net_profit (12) have mismatched sign
+DQ-11,WARNING,profitandloss,TATASTEEL,Mar 2016,eps (0.0) and net_profit (-497) have mismatched sign
+DQ-11,WARNING,profitandloss,VBL,Dec 2013,eps (0.0) and net_profit (-40) have mismatched sign
+DQ-11,WARNING,profitandloss,VBL,Dec 2014,eps (0.0) and net_profit (-20) have mismatched sign
+DQ-12,WARNING,balancesheet,INDIGO,Mar 2015,Sum of asset components (60) vs total_assets (61) differ by 1.64%
+DQ-13,WARNING,profitandloss,JIOFIN,,Only 3 year(s) of data available (expected 5+)
