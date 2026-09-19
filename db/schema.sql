@@ -1,6 +1,8 @@
 CREATE TABLE companies (
     company_id TEXT PRIMARY KEY,
+    company_logo TEXT,
     company_name TEXT,
+    chart_link TEXT,
     about_company TEXT,
     website TEXT,
     nse_profile TEXT,
