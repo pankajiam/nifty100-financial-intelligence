@@ -1,6 +1,8 @@
 from src.analytics.ratios import (
     net_profit_margin, operating_profit_margin, opm_crosscheck,
-    return_on_equity, return_on_capital_employed, return_on_assets
+    return_on_equity, return_on_capital_employed, return_on_assets,
+    debt_to_equity, high_leverage_flag, interest_coverage_ratio,
+    icr_label, icr_warning_flag, net_debt, asset_turnover
 )
 
 
@@ -34,3 +36,40 @@ def test_roe_negative_equity():
 
 def test_roa_zero_assets():
     assert return_on_assets(100, 0) is None
+
+from src.analytics.ratios import (
+    debt_to_equity, high_leverage_flag, interest_coverage_ratio,
+    icr_label, icr_warning_flag, net_debt, asset_turnover
+)
+
+
+def test_debt_to_equity_debt_free():
+    assert debt_to_equity(0, 500, 500) == 0
+
+
+def test_debt_to_equity_normal():
+    assert debt_to_equity(500, 500, 500) == 0.5
+
+
+def test_icr_interest_zero_returns_none():
+    assert interest_coverage_ratio(100, 20, 0) is None
+
+
+def test_icr_label_debt_free():
+    assert icr_label(None) == "Debt Free"
+
+
+def test_icr_label_normal():
+    assert icr_label(3.5) is None
+
+
+def test_high_leverage_flag_triggered():
+    assert high_leverage_flag(6.0, "Consumer") is True
+
+
+def test_high_leverage_flag_financials_suppressed():
+    assert high_leverage_flag(6.0, "Financials") is False
+
+
+def test_icr_warning_flag_low():
+    assert icr_warning_flag(1.2) is True
