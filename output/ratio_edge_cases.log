@@ -1,0 +1,61 @@
+Ratio Edge Case Log — 58 anomalies found
+============================================================
+
+ABB | ROCE | computed=38.42 | source=46.0 | diff=7.58 | category=formula discrepancy
+ADANIENT | ROE | computed=8.53 | source=13.64 | diff=5.11 | category=version difference
+ADANIGREEN | ROCE | computed=9.8 | source=96.5 | diff=86.7 | category=formula discrepancy
+ADANIPOWER | ROCE | computed=23.44 | source=32.2 | diff=8.76 | category=formula discrepancy
+ADANIPOWER | ROE | computed=48.28 | source=57.1 | diff=8.82 | category=version difference
+ASIANPAINT | ROCE | computed=35.77 | source=41.75 | diff=5.98 | category=formula discrepancy
+BAJAJ-AUTO | ROCE | computed=28.39 | source=33.5 | diff=5.11 | category=formula discrepancy
+BAJAJFINSV | ROCE | computed=11.71 | source=21.14 | diff=9.43 | category=data source issue (bank carve-out)
+BAJAJFINSV | ROE | computed=25.85 | source=11.72 | diff=14.13 | category=version difference
+BAJAJHLDNG | ROCE | computed=2.88 | source=13.1 | diff=10.22 | category=data source issue (bank carve-out)
+BAJFINANCE | ROCE | computed=4.35 | source=11.9 | diff=7.55 | category=data source issue (bank carve-out)
+BHARTIARTL | ROCE | computed=26.25 | source=13.1 | diff=13.15 | category=formula discrepancy
+BEL | ROCE | computed=3977.17 | source=34.6 | diff=3942.57 | category=formula discrepancy
+BEL | ROE | computed=4744.05 | source=26.3 | diff=4717.75 | category=version difference
+BPCL | ROE | computed=35.51 | source=41.9 | diff=6.39 | category=version difference
+CHOLAFIN | ROCE | computed=3.5 | source=10.4 | diff=6.9 | category=data source issue (bank carve-out)
+CIPLA | ROCE | computed=71.46 | source=22.8 | diff=48.66 | category=formula discrepancy
+COALINDIA | ROCE | computed=105.71 | source=63.6 | diff=42.11 | category=formula discrepancy
+COALINDIA | ROE | computed=45.17 | source=52.0 | diff=6.83 | category=version difference
+EICHERMOT | ROCE | computed=23.45 | source=31.1 | diff=7.65 | category=formula discrepancy
+GODREJCP | ROCE | computed=18.69 | source=26.49 | diff=7.8 | category=formula discrepancy
+GODREJCP | ROE | computed=-4.45 | source=6.77 | diff=11.22 | category=version difference
+HAL | ROCE | computed=3027.64 | source=38.9 | diff=2988.74 | category=formula discrepancy
+HAL | ROE | computed=3816.58 | source=28.9 | diff=3787.68 | category=version difference
+HDFCLIFE | ROCE | computed=646.46 | source=6.61 | diff=639.85 | category=data source issue (bank carve-out)
+HEROMOTOCO | ROCE | computed=177.84 | source=29.1 | diff=148.74 | category=formula discrepancy
+HINDALCO | ROCE | computed=118.21 | source=11.3 | diff=106.91 | category=formula discrepancy
+HINDUNILVR | ROCE | computed=89.63 | source=27.2 | diff=62.43 | category=formula discrepancy
+ICICIGI | ROCE | computed=146.32 | source=22.5 | diff=123.82 | category=data source issue (bank carve-out)
+ICICIPRULI | ROCE | computed=754.9 | source=8.75 | diff=746.15 | category=data source issue (bank carve-out)
+IRCTC | ROCE | computed=44.56 | source=53.8 | diff=9.24 | category=formula discrepancy
+IRCTC | ROE | computed=34.4 | source=40.4 | diff=6.0 | category=version difference
+LICI | ROCE | computed=39.61 | source=63.79 | diff=24.18 | category=data source issue (bank carve-out)
+LICI | ROE | computed=49.45 | source=63.61 | diff=14.16 | category=version difference
+LT | ROCE | computed=135.2 | source=17.18 | diff=118.02 | category=formula discrepancy
+LT | ROE | computed=77.67 | source=10.49 | diff=67.18 | category=version difference
+LTIM | ROCE | computed=28.91 | source=34.1 | diff=5.19 | category=formula discrepancy
+M&M | ROCE | computed=14.24 | source=26.98 | diff=12.74 | category=formula discrepancy
+MOTHERSON | ROCE | computed=20.23 | source=13.7 | diff=6.53 | category=formula discrepancy
+NESTLEIND | ROCE | computed=157.75 | source=185.43 | diff=27.68 | category=formula discrepancy
+NESTLEIND | ROE | computed=117.75 | source=135.61 | diff=17.86 | category=version difference
+PFC | ROCE | computed=3.49 | source=9.96 | diff=6.47 | category=data source issue (bank carve-out)
+PFC | ROE | computed=26.16 | source=19.49 | diff=6.67 | category=version difference
+PNB | ROE | computed=61.32 | source=8.7 | diff=52.62 | category=version difference
+POWERGRID | ROCE | computed=18.91 | source=13.2 | diff=5.71 | category=formula discrepancy
+SBILIFE | ROCE | computed=1.65 | source=13.2 | diff=11.55 | category=data source issue (bank carve-out)
+SHREECEM | ROCE | computed=20.21 | source=14.8 | diff=5.41 | category=formula discrepancy
+SHRIRAMFIN | ROCE | computed=4.3 | source=11.3 | diff=7.0 | category=data source issue (bank carve-out)
+SIEMENS | ROCE | computed=19.85 | source=25.6 | diff=5.75 | category=formula discrepancy
+TATAMOTORS | ROCE | computed=30.98 | source=20.1 | diff=10.88 | category=formula discrepancy
+TATAMOTORS | ROE | computed=37.46 | source=49.4 | diff=11.94 | category=version difference
+TATASTEEL | ROCE | computed=12.42 | source=7.02 | diff=5.4 | category=formula discrepancy
+TATASTEEL | ROE | computed=-5.33 | source=6.55 | diff=11.88 | category=version difference
+TCS | ROE | computed=50.94 | source=0.52 | diff=50.42 | category=version difference
+TORNTPHARM | ROCE | computed=30.96 | source=23.2 | diff=7.76 | category=formula discrepancy
+TRENT | ROCE | computed=33.86 | source=23.8 | diff=10.06 | category=formula discrepancy
+TRENT | ROE | computed=36.31 | source=27.2 | diff=9.11 | category=version difference
+INDIGO | ROCE | computed=5640.88 | source=24.5 | diff=5616.38 | category=formula discrepancy
